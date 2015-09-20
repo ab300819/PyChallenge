@@ -1,3 +1,5 @@
+__author__ = 'Mason'
+
 import re
 
 data = open('level3.txt', 'r')

@@ -1,4 +1,4 @@
-__author__ = 'Think'
+__author__ = 'Mason'
 import urllib2
 import re
 

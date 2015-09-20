@@ -1,3 +1,5 @@
+__author__ = 'Mason'
+
 data = open('level1.txt', 'r')
 string = data.read().split(' ')
 for word in string:

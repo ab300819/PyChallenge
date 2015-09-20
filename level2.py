@@ -1,3 +1,5 @@
+__author__ = 'Mason'
+
 data = open('level2.txt', 'r')
 ans = ''
 word = data.read()
