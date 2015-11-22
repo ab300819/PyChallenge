@@ -4,7 +4,7 @@ import urllib2
 import cPickle as pickle
 import pprint
 
-f = urllib2.urlopen('http://www.pythonchallenge.com/pc/def/banner.p')
+f = urllib2.urlopen('http://www.PythonChallenge.com/pc/def/banner.p')
 result = pickle.Unpickler(f).load()
 pprint.pprint(result)
 output = open('level5_out.txt', 'w')
