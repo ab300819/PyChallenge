@@ -1,5 +1,0 @@
-http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=45439
-12345
-44827
-45439
-99485
