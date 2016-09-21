@@ -1,3 +1,4 @@
+# -*-coding:utf-8-*-
 __author__ = 'Mason'
 
 data = open('level2.txt', 'r')
