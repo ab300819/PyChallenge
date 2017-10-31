@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 __author__ = 'Mason'
 
-data = open('level1.txt', 'r')
+data = open('resource/level1.txt', 'r')
 string = data.read().split(' ')
 for word in string:
     ans = ''
